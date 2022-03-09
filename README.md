@@ -1,1 +1,1 @@
-# moai_hydra_plugin
+# A Hydra Search Path Plugin for moai
