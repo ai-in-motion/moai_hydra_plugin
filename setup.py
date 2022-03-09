@@ -28,7 +28,7 @@ with open("README.md", "r") as fh:
         ],   
         install_requires=[
             "hydra-core==1.0.*",
-            "moai-mdk==0.*.*",            
+            "moai-mdk>=0.1.*",            
         ],
         include_package_data=False,
     )
