@@ -6,7 +6,7 @@ from setuptools import (
 with open("README.md", "r") as fh:
     LONG_DESC = fh.read()
     setup(
-        name="hydra-moai-searchpath-plugin",
+        name="moai-hydra-searchpath-plugin",
         version="1.0.0",
         author="AI-in-Motion Team",
         author_email="moai@ai-in-motion.dev",
